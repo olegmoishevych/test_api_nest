@@ -17,10 +17,11 @@ This service supports:
 ### 1. Clone the repository
 
 ```bash
-git clone 
-cd
+1 - git clone https://github.com/olegmoishevych/test_api
+2 - cd test_api
 
-Start the project -> docker-compose up --build
+Start the project -> 🐳 
+docker-compose up --build
 
 ✅ This will start:
 •	NestJS app on http://localhost:3000
